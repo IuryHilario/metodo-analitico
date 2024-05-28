@@ -1,1 +1,1 @@
-# metodoAnalitico
+# Método Análitico
